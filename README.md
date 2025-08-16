@@ -201,7 +201,7 @@ Producing party: Monolith Developments.
 
 ℹ️ Repository Facts
 
-Owner: Monolith-Developments
+Owner: Monolith Community
 
 Default branch: main (single branch)
 
